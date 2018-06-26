@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\bin\Debug\netcoreapp2.0\LinkQ_Union.deps.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\bin\Debug\netcoreapp2.0\LinkQ_Union.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\bin\Debug\netcoreapp2.0\LinkQ_Union.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\bin\Debug\netcoreapp2.0\LinkQ_Union.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\bin\Debug\netcoreapp2.0\LinkQ_Union.pdb
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\obj\Debug\netcoreapp2.0\LinkQ_Union.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\obj\Debug\netcoreapp2.0\LinkQ_Union.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\obj\Debug\netcoreapp2.0\LinkQ_Union.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\obj\Debug\netcoreapp2.0\LinkQ_Union.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Concat\LinkQ_Concat\obj\Debug\netcoreapp2.0\LinkQ_Union.pdb

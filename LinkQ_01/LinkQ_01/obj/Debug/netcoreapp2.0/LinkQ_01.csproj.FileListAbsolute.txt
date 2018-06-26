@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\bin\Debug\netcoreapp2.0\LinkQ_01.deps.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\bin\Debug\netcoreapp2.0\LinkQ_01.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\bin\Debug\netcoreapp2.0\LinkQ_01.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\bin\Debug\netcoreapp2.0\LinkQ_01.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\bin\Debug\netcoreapp2.0\LinkQ_01.pdb
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\obj\Debug\netcoreapp2.0\LinkQ_01.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\obj\Debug\netcoreapp2.0\LinkQ_01.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\obj\Debug\netcoreapp2.0\LinkQ_01.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\obj\Debug\netcoreapp2.0\LinkQ_01.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_01\LinkQ_01\obj\Debug\netcoreapp2.0\LinkQ_01.pdb

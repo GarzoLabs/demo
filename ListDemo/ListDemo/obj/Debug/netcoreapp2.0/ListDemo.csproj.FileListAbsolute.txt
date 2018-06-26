@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\bin\Debug\netcoreapp2.0\ListDemo.deps.json
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\bin\Debug\netcoreapp2.0\ListDemo.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\bin\Debug\netcoreapp2.0\ListDemo.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\bin\Debug\netcoreapp2.0\ListDemo.dll
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\bin\Debug\netcoreapp2.0\ListDemo.pdb
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\obj\Debug\netcoreapp2.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\obj\Debug\netcoreapp2.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\obj\Debug\netcoreapp2.0\ListDemo.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\obj\Debug\netcoreapp2.0\ListDemo.dll
+C:\Users\Bwired-8\Source\Repos\ListDemo\ListDemo\obj\Debug\netcoreapp2.0\ListDemo.pdb

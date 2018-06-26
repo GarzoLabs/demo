@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\bin\Debug\netcoreapp2.0\LinkQ_Tutorial.deps.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\bin\Debug\netcoreapp2.0\LinkQ_Tutorial.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\bin\Debug\netcoreapp2.0\LinkQ_Tutorial.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\bin\Debug\netcoreapp2.0\LinkQ_Tutorial.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\bin\Debug\netcoreapp2.0\LinkQ_Tutorial.pdb
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\obj\Debug\netcoreapp2.0\LinkQ_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\obj\Debug\netcoreapp2.0\LinkQ_Tutorial.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\obj\Debug\netcoreapp2.0\LinkQ_Tutorial.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\obj\Debug\netcoreapp2.0\LinkQ_Tutorial.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Tutorial\LinkQ_Tutorial\obj\Debug\netcoreapp2.0\LinkQ_Tutorial.pdb

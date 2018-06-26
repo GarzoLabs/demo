@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp2.0\IEnumerableDemo.deps.json
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp2.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp2.0\IEnumerableDemo.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp2.0\IEnumerableDemo.dll
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\bin\Debug\netcoreapp2.0\IEnumerableDemo.pdb
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp2.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp2.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp2.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp2.0\IEnumerableDemo.dll
+C:\Users\Bwired-8\Source\Repos\IEnumerableDemo\IEnumerableDemo\obj\Debug\netcoreapp2.0\IEnumerableDemo.pdb

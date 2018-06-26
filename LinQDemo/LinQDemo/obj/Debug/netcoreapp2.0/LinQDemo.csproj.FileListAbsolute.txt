@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\bin\Debug\netcoreapp2.0\LinQDemo.deps.json
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\bin\Debug\netcoreapp2.0\LinQDemo.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\bin\Debug\netcoreapp2.0\LinQDemo.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\bin\Debug\netcoreapp2.0\LinQDemo.dll
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\bin\Debug\netcoreapp2.0\LinQDemo.pdb
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\obj\Debug\netcoreapp2.0\LinQDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\obj\Debug\netcoreapp2.0\LinQDemo.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\obj\Debug\netcoreapp2.0\LinQDemo.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\obj\Debug\netcoreapp2.0\LinQDemo.dll
+C:\Users\Bwired-8\Source\Repos\LinQDemo\LinQDemo\obj\Debug\netcoreapp2.0\LinQDemo.pdb

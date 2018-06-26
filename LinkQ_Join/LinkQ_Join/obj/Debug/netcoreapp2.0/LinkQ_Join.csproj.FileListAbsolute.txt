@@ -1,0 +1,10 @@
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\bin\Debug\netcoreapp2.0\LinkQ_Join.deps.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\bin\Debug\netcoreapp2.0\LinkQ_Join.runtimeconfig.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\bin\Debug\netcoreapp2.0\LinkQ_Join.runtimeconfig.dev.json
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\bin\Debug\netcoreapp2.0\LinkQ_Join.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\bin\Debug\netcoreapp2.0\LinkQ_Join.pdb
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\obj\Debug\netcoreapp2.0\LinkQ_Join.csproj.CoreCompileInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\obj\Debug\netcoreapp2.0\LinkQ_Join.AssemblyInfoInputs.cache
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\obj\Debug\netcoreapp2.0\LinkQ_Join.AssemblyInfo.cs
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\obj\Debug\netcoreapp2.0\LinkQ_Join.dll
+C:\Users\Bwired-8\Source\Repos\LinkQ_Join\LinkQ_Join\obj\Debug\netcoreapp2.0\LinkQ_Join.pdb
